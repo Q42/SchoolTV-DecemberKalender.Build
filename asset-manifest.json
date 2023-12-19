@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "https://cdn.jsdelivr.net/gh/Q42/SchoolTV-DecemberKalender.Build/static/js/main.js",
+    "static/media/deurtje-open.mp3": "./static/media/deurtje-open.9b4d3bc89ca52428f6b5.mp3",
+    "static/media/schooltv-website.webp": "./static/media/schooltv-website.ba4576902e60350bab0a.webp",
+    "static/media/auto.webp": "./static/media/auto.b947bb6d64750c3fa99f.webp",
+    "static/media/pointer.webp": "./static/media/pointer.2147b0d774d4607b361b.webp",
+    "index.html": "./index.html",
+    "static/media/close.svg": "./static/media/close.bf300b68ce8130e7568cef3784cb71d1.svg",
+    "main.9b1e3947.js.map": "./static/js/main.9b1e3947.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9b1e3947.js"
+  ]
+}
